@@ -1,3 +1,5 @@
+#simulates a neuron using the leaky integrate-and-fire neuron model
+
 from numpy import linspace
 import seaborn as sns
 import pylab as pl
