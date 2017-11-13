@@ -1,3 +1,5 @@
+#plots the firing rate of a leaky integrate-and-fire neuron as a function of input current
+
 from numpy import linspace
 import seaborn as sns
 import pylab as pl
