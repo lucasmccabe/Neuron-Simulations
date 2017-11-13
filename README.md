@@ -1,7 +1,7 @@
 # Neuron-Simulations
 Neuronal dynamics simulations in Python.
 
-Here are a few example plots (more found under /Plots):
+Here are a few example plots (more found under [/Plots](https://github.com/lucasmccabe/Neuron-Simulations/tree/master/Plots)):
 
 The leaky integrate-and-fire neuron model is described [here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.51.738).
 ![fig1](/Plots/LIF_2.5.png)
