@@ -1,3 +1,5 @@
+#simulates a Hodgkin-Huxley neuron with the drug TTX inhibiting sodium current
+
 from numpy import linspace, exp
 import seaborn as sns
 import pylab as pl
