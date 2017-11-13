@@ -1,3 +1,5 @@
+#simulates a Hodgkin-Huxley neuron with the drug Pronase inhibiting sodium inactivation
+
 from numpy import linspace, exp
 import seaborn as sns
 import pylab as pl
