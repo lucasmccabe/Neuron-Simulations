@@ -1,3 +1,5 @@
+#simulates a neuron using the Izhikevich model
+
 from numpy import linspace
 import seaborn as sns
 import pylab as pl
