@@ -1,3 +1,5 @@
+#simulates a neuron using the Hodgkin-Huxley model
+
 from numpy import linspace, exp
 import seaborn as sns
 import pylab as pl
